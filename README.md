@@ -45,3 +45,8 @@ Q42.Write a C Program to check if a number is power of 2 using bitwise AND.
 Q43.Write a C Program to print whether a number is positive or negative.
 Q44.Write a C Program to find the greatest of three numbers.
 Q45.Write a C Program to print pass/fail result based on marks.
+Q46.Write a C Program to find area of Rectangle.
+Q47.Write a C Program to find area of Square.
+Q48.Write a C Program to find area of Triangle.
+Q49.Write a C Program to find area of Circle.
+Q50.Write a C Program to find the distance between two points.
