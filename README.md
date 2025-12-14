@@ -50,3 +50,13 @@ Q47.Write a C Program to find area of Square.
 Q48.Write a C Program to find area of Triangle.
 Q49.Write a C Program to find area of Circle.
 Q50.Write a C Program to find the distance between two points.
+Q51.Write a C Program to calculate Fahrenheit to Celsius.
+Q52.Write a C Program to calculate Celsius to Fahrenheit.
+Q53.Write a C Program to find Perimeter of a Square.
+Q54.Write a C Program to find Perimeter of a Rectangle.
+Q55.Write a C Program to find Perimeter of a Triangle.
+Q56.Write a C Program to find circumference of a circle.
+Q57.Write a C Program to find Surface Area, Volume, and Perimeter of a cube.
+Q58.Write a C Program to find Surface Area and Volume of a cuboid.
+Q59.Write a C Program to find Surface Area and Volume of a Sphere.
+Q60.Write a C Program to find Surface Area and Volume of a cylinder.
