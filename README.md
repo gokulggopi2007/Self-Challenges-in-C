@@ -60,3 +60,43 @@ Q57.Write a C Program to find Surface Area, Volume, and Perimeter of a cube.
 Q58.Write a C Program to find Surface Area and Volume of a cuboid.
 Q59.Write a C Program to find Surface Area and Volume of a Sphere.
 Q60.Write a C Program to find Surface Area and Volume of a cylinder.
+Q61.Write a C Program to print Price After Discount.
+Q62.Write a C Program to Convert Minutes to Seconds.
+Q63.Write a C Program to Split the Bill Among 3 Friends.
+Q64.Write a C Program to Calculate the Distance Travelled.
+Q65.Write a C Program to Convert Kilometers to Meters.
+Q66.Write a C Program to Convert Bytes to bits.
+Q67.Write a C Program to Distribute Candies Equally Among People.
+Q68.Write a C Program to Calculate Total Cakes Made.
+Q69.Write a C Program to Calculate Simple Interest.
+Q70.Write a C Program to calculate Salary of Employee.
+Q71.Write a C Program to calculate selling price given cost price and profit.
+Q72.Write a C Program to calculate cost price given selling price and loss.
+Q73.Write a C Program to Mangoes Discount (Buy 3 Get 1 Free) Find Total Amount need to pay.
+Q74.Write a C Program to Pens Discount (Buy 5, Pay for 3) Find Total Amount need to pay.
+Q75.Write a C Program to Print Currency Notes from ATM.
+Q76.Write a C Program to find greatest among two numbers.
+Q77.Write a C Program to find smallest among two numbers.
+Q78.Write a C Program to find whether the given number is odd or even number.
+Q79.Write a C Program to find whether the difference between two numbers is even or odd.
+Q80.Write a C Program to find whether the given number is 3 digit number or not.
+Q81.Write a C Program to find greatest among three numbers.
+Q82.Write a C rogram to find smallest among three numbers.
+Q83.Write a C Program to find whether the last digit of given number is divisible by 3.
+Q84.Write a C Program to check odd or even using bitwise operator.
+Q85.Write a C Program to check whether the sum of two numbers is even or odd.
+Q86.Write a C Program to check whether the first digit of a 3 digit number is odd or even.
+Q87.Write a C Program to check whether the last digit of a number is odd or even.
+Q88.Write a C Program to check whether a number is positive, negative, or zero.
+Q89.Write a C Program to check whether a number is divisible by both 3 and 5.
+Q90.Write a C Program to check whether a number is divisible by either 3 or 7.
+Q91.Write a C Program to check whether a number is divisible by both 2 and 5 but not by 8.
+Q92.Write a C Program to check whether two numbers have the same last digit.
+Q93.Write a C Program to check whether a number is a single-digit, two-digit, or three-digit number.
+Q94.Write a C Program to check whether the product of two numbers is positive or negative.
+Q95.Write a C Program to check whether the ASCII value of a character is even or odd.
+Q96.Write a C Program to check whether a given character is a vowel or consonant.
+Q97.Write a C Program to check whether a given character is uppercase, lowercase, digit, or special symbol.
+Q98.Write a C Program to check whether a character is alphabet or not.
+Q99.Write a C Program to check whether a character is a digit or not.
+Q100.Write a C Program to check whether two characters are equal or not.
